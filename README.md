@@ -1,5 +1,5 @@
 # Gemini-jailbreak
-for Jailbraking and image generation
+for Jailbreaking and image generation
 # Prompt
 
 ```
